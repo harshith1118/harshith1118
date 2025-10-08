@@ -19,7 +19,7 @@
 
 <div align="center">
   
-### Featured Python Work
+### Featured Python Data Analysis Work
 
 </div>
 
@@ -39,61 +39,51 @@
 [![Repo](https://img.shields.io/badge/Repo-Onboard-blue?style=for-the-badge&logo=github)](https://github.com/harshith1118/onboard)
 
     </td>
-    <td width="50%" valign="top">
+    <td valign="top" width="50%">
       
 #### 🌦️ [WeatherUpdate](https://github.com/harshith1118/WeatherUpdate)
 
-**Real-time weather information system**
+**Real-time weather information application using Python**
 
-- 🌍 Live weather data integration
-- 📊 Interactive data visualization
-- 🔄 Automated updates
-- 💡 User-friendly interface
+- 🌍 Location-based weather data
+- 🐍 Built with Python
+- 🔄 Real-time updates
+- 📊 Clean data presentation
 
-[![Repo](https://img.shields.io/badge/Repo-WeatherUpdate-green?style=for-the-badge&logo=github)](https://github.com/harshith1118/WeatherUpdate)
+[![Repo](https://img.shields.io/badge/Repo-WeatherUpdate-blue?style=for-the-badge&logo=github)](https://github.com/harshith1118/WeatherUpdate)
 
     </td>
   </tr>
-</table>
-
----
-
-## 💼 Web Development Projects
-
-<div align="center">
-  
-### Full-Stack Applications
-
-</div>
-
-<table>
   <tr>
     <td width="50%" valign="top">
       
-#### 🛒 [E-Shop](https://github.com/harshith1118/E-Shop)
+#### 📊 [Smart Onboarding Analysis](https://github.com/harshith1118/smart-onborading)
 
-**Modern e-commerce platform**
+**Python-based Streamlit dashboard for analyzing onboarding training compliance, feedback, and employee satisfaction**
 
-- 🎨 Responsive design
-- 🔐 Secure authentication
-- 💳 Payment integration
-- 📱 Mobile-friendly interface
+- 📈 Interactive data visualization with Plotly
+- 🗃️ SQL (SQLite) integration for data processing
+- 🎯 Comprehensive compliance tracking
+- 📊 Real-time analytics and insights
+- 🐍 Built with Python, Streamlit, and Pandas
 
-[![Repo](https://img.shields.io/badge/Repo-EShop-orange?style=for-the-badge&logo=github)](https://github.com/harshith1118/E-Shop)
+[![Repo](https://img.shields.io/badge/Repo-Smart_Onboarding-blue?style=for-the-badge&logo=github)](https://github.com/harshith1118/smart-onborading)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=streamlit)](https://harshith1118-smart-onborading-onboarding-dashboard-ctuavy.streamlit.app/)
 
     </td>
-    <td width="50%" valign="top">
+    <td valign="top" width="50%">
       
-#### 🏨 [Hotel-Management](https://github.com/harshith1118/Hotel-Management)
+#### 📈 [Sales Analysis](https://github.com/harshith1118/Sales_analysis)
 
-**Complete hotel management system**
+**Python-based data analysis application for comprehensive sales insights and business intelligence**
 
-- 📅 Booking management
-- 👥 Customer database
-- 📊 Analytics dashboard
-- 💰 Billing system
+- 📊 Advanced sales data analysis
+- 🐍 Python data science stack (Pandas, NumPy, Matplotlib)
+- 📉 Trend analysis and forecasting
+- 💡 Actionable business insights
+- 🎯 Data-driven decision making
 
-[![Repo](https://img.shields.io/badge/Repo-HotelManagement-purple?style=for-the-badge&logo=github)](https://github.com/harshith1118/Hotel-Management)
+[![Repo](https://img.shields.io/badge/Repo-Sales_Analysis-blue?style=for-the-badge&logo=github)](https://github.com/harshith1118/Sales_analysis)
 
     </td>
   </tr>
@@ -103,23 +93,20 @@
 
 ## 🌐 About Me
 
-<div align="center">
+<p align="center">
+  <em>A passionate developer and problem solver from India 🇮🇳</em>
+</p>
 
-🔭 Currently working on **Full-Stack Development** and **Python Automation**
-
-🌱 Learning **Advanced React** and **Cloud Technologies**
-
-💬 Ask me about **Python, Web Development, and Problem Solving**
-
-📫 Reach me at **harshithbhargav18@gmail.com**
-
-⚡ Fun fact: **I love automating repetitive tasks!**
-
-</div>
+- 🔭 I'm currently working on **various Python and web development projects**
+- 🌱 I'm constantly learning and exploring **new technologies**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **Python, Web Development, and Data Structures**
+- 📫 How to reach me: Check my profile for contact details
+- ⚡ Fun fact: I love turning coffee into code ☕️
 
 ---
 
-## 🔧 Languages and Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -128,32 +115,14 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
