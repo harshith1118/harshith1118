@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **Advanced System Design** and **Cloud Architecture**
 - 👯 I'm looking to collaborate on **Open Source Contributions**
 - 💬 Ask me about **Python, JavaScript, React, Node.js**
-- 📫 How to reach me: **harshithalepu@gmail.com**
+- 📫 How to reach me: **dharshith657@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems and automating workflows**
 
 ---
