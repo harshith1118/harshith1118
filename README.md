@@ -20,7 +20,7 @@
 - **Fedora Bodhi** - Improving test case and bug feedback validation in update requirements
 - **py-pmp-manip** - Implementing validation for FRProject extension data fields
 - **CoreConcept** - Building a JavaScript-based conceptual framework
-- **Smart Onboarding Systems** - Developing Python-based onboarding solutions
+
 
 ---
 
