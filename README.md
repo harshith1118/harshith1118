@@ -1,131 +1,81 @@
+## 🚀 Currently Working On
+
+- **Apache Hamilton** - Adding TOML file support for loading context configurations
+- **Fedora Bodhi** - Improving test case and bug feedback validation in update requirements
+- **py-pmp-manip** - Implementing validation for FRProject extension data fields
+- **CoreConcept** - Building a JavaScript-based conceptual framework
+- **Smart Onboarding Systems** - Developing Python-based onboarding solutions
+
+---
+
+## 🌟 Open Source Contributions
+
+### 🔹 Apache Hamilton
+**Project:** [apache/hamilton](https://github.com/apache/hamilton)
+**Contribution:** Feature Development
+**PR:** [#1402 - Add support for loading context from TOML files including pyproject.toml](https://github.com/apache/hamilton/pull/1402)
+**Status:** Open
+
+### 🔹 Fedora Bodhi
+**Project:** [fedora-infra/bodhi](https://github.com/fedora-infra/bodhi)
+**Contribution:** Bug Fix
+**PR:** [#5956 - Fix: Enforce test case and bug feedback requirements in meets_requirements_why](https://github.com/fedora-infra/bodhi/pull/5956)
+**Status:** Open
+
+### 🔹 py-pmp-manip
+**Project:** [GermanCodeEngineer/py-pmp-manip](https://github.com/GermanCodeEngineer/py-pmp-manip)
+**Contribution:** Bug Fix & Validation
+**PR:** [#4 - Implement validation for extension_data field in FRProject](https://github.com/GermanCodeEngineer/py-pmp-manip/pull/4)
+**Status:** Open
+
+### 🔹 Microsoft TypeScript
+**Project:** [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+**Contribution:** Bug Fix
+**PR:** [#62537 - Fix nested ternary operator indentation issue](https://github.com/microsoft/TypeScript/pull/62537)
+**Status:** Closed
+
+---
+
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋,%20I'm%20Harshith&fontSize=90&animation=fadeIn&fontAlignY=25&desc=A%20Passionate%20Developer%20From%20India&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋,%20I'm%20Harshith&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
-<!-- Profile View Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshith1118&label=Profile%20views&color=0e75b6&style=flat" alt="harshith1118" />
-</p>
+---
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=harshith1118&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on **Open Source Projects**
+- 🌱 I'm constantly learning and exploring new technologies
+- 💬 Ask me about **Python, JavaScript, Web Development**
+- 📫 How to reach me: Check out my GitHub profile
+- ⚡ Fun fact: I love contributing to open source!
 
 ---
 
-## 🌟 Python Projects
-
-<div align="center">
-  
-### Featured Python Data Analysis Work
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      
-#### 🚀 [Onboard](https://github.com/harshith1118/onboard)
-
-**A comprehensive onboarding solution built with Python**
-
-- 🎯 Streamlined user registration & management
-- 🔧 Modern Python architecture
-- 📦 Clean, maintainable codebase
-- ⚡ Efficient workflow automation
-
-[![Repo](https://img.shields.io/badge/Repo-Onboard-blue?style=for-the-badge&logo=github)](https://github.com/harshith1118/onboard)
-
-    </td>
-    <td valign="top" width="50%">
-      
-#### 🌦️ [WeatherUpdate](https://github.com/harshith1118/WeatherUpdate)
-
-**Real-time weather information application using Python**
-
-- 🌍 Location-based weather data
-- 🐍 Built with Python
-- 🔄 Real-time updates
-- 📊 Clean data presentation
-
-[![Repo](https://img.shields.io/badge/Repo-WeatherUpdate-blue?style=for-the-badge&logo=github)](https://github.com/harshith1118/WeatherUpdate)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      
-#### 📊 [Smart Onboarding Analysis](https://github.com/harshith1118/smart-onborading)
-
-**Python-based Streamlit dashboard for analyzing onboarding training compliance, feedback, and employee satisfaction**
-
-- 📈 Interactive data visualization with Plotly
-- 🗃️ SQL (SQLite) integration for data processing
-- 🎯 Comprehensive compliance tracking
-- 📊 Real-time analytics and insights
-- 🐍 Built with Python, Streamlit, and Pandas
-
-[![Repo](https://img.shields.io/badge/Repo-Smart_Onboarding-blue?style=for-the-badge&logo=github)](https://github.com/harshith1118/smart-onborading)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=streamlit)](https://harshith1118-smart-onborading-onboarding-dashboard-ctuavy.streamlit.app/)
-
-    </td>
-    <td valign="top" width="50%">
-      
-#### 📈 [Sales Analysis](https://github.com/harshith1118/Sales_analysis)
-
-**Python-based data analysis application for comprehensive sales insights and business intelligence**
-
-- 📊 Advanced sales data analysis
-- 🐍 Python data science stack (Pandas, NumPy, Matplotlib)
-- 📉 Trend analysis and forecasting
-- 💡 Actionable business insights
-- 🎯 Data-driven decision making
-
-[![Repo](https://img.shields.io/badge/Repo-Sales_Analysis-blue?style=for-the-badge&logo=github)](https://github.com/harshith1118/Sales_analysis)
-
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 About Me
-
-<p align="center">
-  <em>A passionate developer and problem solver from India 🇮🇳</em>
-</p>
-
-- 🔭 I'm currently working on **various Python and web development projects**
-- 🌱 I'm constantly learning and exploring **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **Python, Web Development, and Data Structures**
-- 📫 How to reach me: Check my profile for contact details
-- ⚡ Fun fact: I love turning coffee into code ☕️
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -181,6 +131,6 @@
 <div align="center">
   
   
-### ⭐ Show some love by starring some of the repositories!
+  ### ⭐ Show some love by starring some of the repositories!
   
 </div>
