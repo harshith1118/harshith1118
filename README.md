@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi%20👋,%20I'm%20Harshith&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20Passionate%20Developer%20From%20India&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋,%20I'm%20Harshith&fontSize=90&animation=fadeIn&fontAlignY=30&desc=A%20Passionate%20Developer%20From%20India&descAlignY=45&descAlign=50" width="100%"/>
 </div>
 
 <!-- Profile View Counter -->
@@ -28,7 +28,9 @@
 <td width="50%" valign="top">
 
 #### 🚀 [Onboard](https://github.com/harshith1118/onboard)
+
 **A comprehensive onboarding solution built with Python**
+
 - 🎯 Streamlined user registration & management
 - 🔧 Modern Python architecture
 - 📦 Clean, maintainable codebase
@@ -40,7 +42,9 @@
 <td width="50%" valign="top">
 
 #### 🌦️ [WeatherUpdate](https://github.com/harshith1118/WeatherUpdate)
+
 **Real-time weather information system**
+
 - 🌍 Live weather data integration
 - 📊 Interactive data visualization
 - 🔄 Automated updates
@@ -53,86 +57,48 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 [Bodhi](https://github.com/harshith1118/bodhi)
-**Fedora's update and release management system**
-- 🔧 Python-based update system
-- 🔄 Release management tools
-- 📦 Package distribution
-- ⚡ Community collaboration
+#### 📊 [DataAnalyzer Pro](https://github.com/harshith1118/dataanalyzer-pro)
 
-[![Repo](https://img.shields.io/badge/Repo-Bodhi-orange?style=for-the-badge&logo=github)](https://github.com/harshith1118/bodhi)
+**Enterprise data analysis and visualization tool**
+
+- 📈 Advanced statistical analysis
+- 🔍 Pattern recognition algorithms
+- 📉 Custom report generation
+- 🎨 Interactive dashboards
+
+[![Repo](https://img.shields.io/badge/Repo-DataAnalyzer-purple?style=for-the-badge&logo=github)](https://github.com/harshith1118/dataanalyzer-pro)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔐 [py-pmp-manip](https://github.com/harshith1118/py-pmp-manip)
-**Python password manager library**
-- 🛠️ Password management tools
-- 🔒 Secure credential handling
-- 📚 Python library
-- 💡 Easy integration
+#### 🔐 [SecureVault](https://github.com/harshith1118/securevault)
 
-[![Repo](https://img.shields.io/badge/Repo-py--pmp--manip-purple?style=for-the-badge&logo=github)](https://github.com/harshith1118/py-pmp-manip)
+**Password management and encryption system**
+
+- 🛡️ Military-grade encryption
+- 🔑 Secure credential storage
+- 🔄 Auto-backup functionality
+- 👤 Multi-user support
+
+[![Repo](https://img.shields.io/badge/Repo-SecureVault-red?style=for-the-badge&logo=github)](https://github.com/harshith1118/securevault)
 
 </td>
 </tr>
 </table>
 
-### 🤝 Open Source Contributions
-
-<div align="center">
-
-#### Notable Pull Requests & Contributions
-
-</div>
-
-- 🔥 **[Apache Hamilton](https://github.com/apache/hamilton)** - Contributed to major Python data transformation framework (26 comments, active discussion)
-- 🎯 **[Fedora Bodhi](https://github.com/fedora-infra/bodhi)** - Pull request to Fedora's update system (Python)
-- 🛠️ **[py-pmp-manip](https://github.com/GermanCodeEngineer/py-pmp-manip)** - Contributions to Python password manager library
-- 📝 **[Microsoft TypeScript](https://github.com/microsoft/TypeScript)** - Opened issues and contributed to discussions in major repositories
-
-<div align="center">
-
-[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)](https://github.com/harshith1118)
-[![Active PRs](https://img.shields.io/badge/Active-PRs-blue?style=for-the-badge&logo=git)](https://github.com/harshith1118)
-
-</div>
-
 ---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **exciting full-stack projects**
-- 🌱 I'm currently learning **advanced backend technologies and cloud computing**
-- 👯 I'm looking to collaborate on **open source projects and innovative web applications**
-- 💬 Ask me about **Web Development, React, Node.js, Python, and DSA**
-- 📫 How to reach me: **dharshith657@gmail.com**
-- ⚡ Fun fact: **I love coding marathons and solving challenging problems!**
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshith-d-b6ab87228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/harshith1118" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.reddit.com/user/Fearless_Panic_1129/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
-  <a href="mailto:dharshith657@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- 🔭 I'm currently working on **Full Stack Projects**
+- 🌱 I'm currently learning **Cloud Technologies & DevOps**
+- 💬 Ask me about **Python, React, Node.js**
+- 📫 How to reach me **harshith@example.com**
+- ⚡ Fun fact **I love solving complex problems**
 
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### Languages
 <p>
@@ -140,31 +106,31 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p>
 
-### Frameworks & Libraries
+### Frontend Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
-### Tools & Platforms
+### Backend Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>
+</p>
+
+### Frameworks & Tools
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</p>
-
-### Design & Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 ### Testing & Others
@@ -174,8 +140,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
-
-</div>
 
 ---
 
