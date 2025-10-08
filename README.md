@@ -15,12 +15,69 @@
 
 ---
 
+## 🌟 Python Projects
+
+<div align="center">
+
+### Featured Python Work
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚀 [Onboard](https://github.com/harshith1118/onboard)
+**A comprehensive onboarding solution built with Python**
+- 🎯 Streamlined user registration & management
+- 🔧 Modern Python architecture
+- 📦 Clean, maintainable codebase
+- ⚡ Efficient workflow automation
+
+[![Repo](https://img.shields.io/badge/Repo-Onboard-blue?style=for-the-badge&logo=github)](https://github.com/harshith1118/onboard)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌦️ [WeatherUpdate](https://github.com/harshith1118/WeatherUpdate)
+**Real-time weather information system**
+- 🌍 Live weather data integration
+- 📊 Interactive data visualization
+- 🔄 Automated updates
+- 💡 User-friendly interface
+
+[![Repo](https://img.shields.io/badge/Repo-WeatherUpdate-green?style=for-the-badge&logo=github)](https://github.com/harshith1118/WeatherUpdate)
+
+</td>
+</tr>
+</table>
+
+### 🤝 Open Source Contributions
+
+<div align="center">
+
+#### Notable Pull Requests & Contributions
+
+</div>
+
+- 🔥 **[Apache Hamilton](https://github.com/apache/hamilton)** - Contributed to major Python data transformation framework (26 comments, active discussion)
+- 🎯 **[Fedora Bodhi](https://github.com/fedora-infra/bodhi)** - Pull request to Fedora's update system (Python)
+- 🛠️ **[py-pmp-manip](https://github.com/GermanCodeEngineer/py-pmp-manip)** - Contributions to Python password manager library
+- 📝 **Microsoft TypeScript** - Opened issues and contributed to discussions in major repositories
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github" alt="Open Source Contributor"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-Active-brightgreen?style=for-the-badge&logo=git" alt="Active PRs"/>
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **exciting full-stack projects**
 - 🌱 I'm currently learning **advanced backend technologies and cloud computing**
 - 👯 I'm looking to collaborate on **open source projects and innovative web applications**
-- 💬 Ask me about **Web Development, React, Node.js, and DSA**
+- 💬 Ask me about **Web Development, React, Node.js, Python, and DSA**
 - 📫 How to reach me: **harshith1118@example.com**
 - ⚡ Fun fact: **I love coding marathons and solving challenging problems!**
 
@@ -51,6 +108,9 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -60,17 +120,14 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -78,7 +135,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -93,7 +150,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
