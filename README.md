@@ -6,10 +6,8 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I'm currently working on **Open Source Projects**
-- 🌱 I'm currently learning **Advanced System Design** and **Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source Contributions**
-- 💬 Ask me about **Python, JavaScript, React, Node.js**
+- 🔭 I'm currently working on **fullstack applications and SaaS products**- 🌱 I'm currently learning **Advanced System Design** and **Cloud Architecture**
+- 🌱 I'm learning **Cloud Architecture, DevOps, and AI/ML integration**- 💬 Ask me about **Python, JavaScript, React, Node.js**
 - 📫 How to reach me: **dharshith657@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems and automating workflows**
 
