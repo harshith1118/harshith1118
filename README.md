@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I'm currently working on **fullstack applications and SaaS products**- 🌱 I'm currently learning **Advanced System Design** and **Cloud Architecture**
+- 🔭 I'm currently working on **fullstack applications **- 🌱 I'm currently learning **Advanced System Design** and **Cloud Architecture**
 - 🌱 I'm learning **Cloud Architecture, DevOps, and AI/ML integration**- 💬 Ask me about **Python, JavaScript, React, Node.js**
 - 📫 How to reach me: **dharshith657@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems and automating workflows**
@@ -79,12 +79,12 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshith1118&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshith1118&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith1118&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+ 
 </div>
 
 ---
@@ -125,91 +125,6 @@
 
 ---
 
-## 🎯 Featured Projects
 
-<div align="center">
-
-### Healthcare & Testing Automation
-
-</div>
-
-<div>
-
-### 🏥 [Meditest AI](https://github.com/harshith1118/meditest-ai)
-**Healthcare Test Case Generation & Compliance Platform**
-
-- 🔧 **Technologies**: Python, React, Node.js, MongoDB, Azure
-- 📋 **Features**: 
-  - AI-powered medical test case generation
-  - HIPAA/GDPR compliance tracking
-  - Mock medical data generation
-  - Jira integration for test traceability
-  - Export to multiple formats (CSV, Excel, JSON)
-- 🎯 **Focus**: Healthcare data compliance and automated test validation
-
-### 🧪 [Test Automation Framework](https://github.com/harshith1118/test-automation)
-**End-to-End Testing Suite for Healthcare Systems**
-
-- 🔧 **Technologies**: Python, Selenium, Pytest, Docker
-- 📋 **Features**:
-  - Parallel test execution
-  - CI/CD pipeline integration
-  - Test report generation
-  - Mock data fixtures for healthcare scenarios
-- 🎯 **Focus**: Reliable, scalable testing for medical applications
-
-### ☁️ [Cloud Infrastructure Config](https://github.com/harshith1118/cloud-infra)
-**Infrastructure as Code for Healthcare Deployments**
-
-- 🔧 **Technologies**: Terraform, CloudFormation, Docker, Kubernetes
-- 📋 **Features**:
-  - Multi-cloud deployment support (AWS, Azure, IBM Cloud)
-  - Security & compliance automation
-  - Infrastructure monitoring
-- 🎯 **Focus**: Secure, scalable cloud deployments for healthcare
-
-</div>
-
----
-
-## 💼 Open Source Impact
-
-| Project | Contribution | Status | PR |
-|---------|-------------|--------|----|
-| **Apache Hamilton** | Feature Development | Open | [#1402](https://github.com/DAGWorks-Inc/hamilton/pull/1402) |
-| **Fedora Bodhi** | Bug Fix & Validation | Open | [#5956](https://github.com/fedora-infra/bodhi/pull/5956) |
-| **py-pmp-manip** | Validation & Extension | Open | [#4](https://github.com/GermanCodeEngineer/py-pmp-manip/pull/4) |
-| **Microsoft TypeScript** | Bug Fix | Closed | [#62537](https://github.com/microsoft/TypeScript/pull/62537) |
-
----
-
-## 🎨 Tech Stack & Expertise
-
-<div align="center">
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Specializations**
-
-✅ Healthcare Software Testing  
-✅ Test Case Generation & Automation  
-✅ Medical Data Compliance (HIPAA/GDPR)  
-✅ Cloud Architecture & DevOps  
-✅ CI/CD Pipeline Integration  
-✅ Mock Data Generation  
-✅ System Integration Testing  
 
 </div>
