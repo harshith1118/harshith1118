@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I'm currently working on **fullstack applications **- 🌱 I'm currently learning **Advanced System Design** and **Cloud Architecture**
+- 🔭 I'm currently working on **fullstack applications**- 🌱 I'm currently learning **Advanced System Design** and **Cloud Architecture**
 - 🌱 I'm learning **Cloud Architecture, DevOps, and AI/ML integration**- 💬 Ask me about **Python, JavaScript, React, Node.js**
 - 📫 How to reach me: **dharshith657@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems and automating workflows**
